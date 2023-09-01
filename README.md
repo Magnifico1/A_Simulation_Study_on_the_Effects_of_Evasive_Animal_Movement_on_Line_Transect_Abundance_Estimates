@@ -1,4 +1,4 @@
-# A-Simulation-Study-on-the-Effects-of-Evasive-Animal-Movement-on-Line-Transect-Abundance-Estimates
+# A Simulation Study on the Effects of Evasive Animal Movement on Line Transect Abundance Estimates
 
 A frequently used method for the estimation of animal populations based
 on line transect data is that of distance sampling. Since it assumes uniform
