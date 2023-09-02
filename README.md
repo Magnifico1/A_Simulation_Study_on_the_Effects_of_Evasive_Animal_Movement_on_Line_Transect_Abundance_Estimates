@@ -2,7 +2,7 @@
 
 (Submitted for fulfilment of MSc Applied Statistics and Datamining degree)
 
-A frequently used method for the estimation of animal populations based
+A frequently used method in statistical ecology for the estimation of animal populations based
 on line transect data is that of distance sampling. Since it assumes uniform
 animal distribution in the area surveyed, however, such estimates are biased
 when the animals respond to the observer before their detection. In this paper, we present the findings of a simulation study to assess the extent to which
