@@ -1,6 +1,6 @@
 # A Simulation Study on the Effects of Evasive Animal Movement on Line Transect Abundance Estimates
 
-(Submitted as dissertation for fulfilment of MSc Applied Statistics and Datamining degree)
+(Submitted as dissertation for fulfilment of MSc Applied Statistics and Datamining degree; graded 18/20)
 
 A frequently used method in statistical ecology for the estimation of animal populations based
 on line transect data is that of distance sampling. Since it assumes uniform
