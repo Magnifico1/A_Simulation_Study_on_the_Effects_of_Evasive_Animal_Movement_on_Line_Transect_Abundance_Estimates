@@ -8,7 +8,7 @@ animal distribution in the area surveyed, however, such estimates are biased
 when the animals respond to the observer before their detection. In this paper, we present the findings of a simulation study to assess the extent to which
 the evasive responsive movement behaviour exhibited by marine turtle species
 influences estimates of their abundance. Distance data showing evasive movement of varying severity were simulated on the basis of the survey design of
-an ongoing project to study sea turtle-vessel interactions in the Gulf of Mexico (https://marineturtleresearch.com/portfolio/risk-of-vessel-strike-to-marine-turtles-and-potential-management-options). marineturtleresearch.com  
+an ongoing project to study sea turtle-vessel interactions in the Gulf of Mexico (https://marineturtleresearch.com/portfolio/risk-of-vessel-strike-to-marine-turtles-and-potential-management-options).
  We examined the results from both a single boat observer, to which the
 conventional distance sampling method was applied, as well as from two configurations of a boat and drone as double observers, for which mark-recapture
 distance sampling was implemented. Accuracy of the estimates of the primary observer’s trackline detection probability $p_1(0)$ and of turtle abundance
